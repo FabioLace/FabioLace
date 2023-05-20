@@ -10,8 +10,13 @@
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
-![Vue](https://img.shields.io/badge/vue-grey?style=for-the-badge&logo=vue)
+![Vue.js](https://img.shields.io/badge/vue.js-grey?style=for-the-badge)
 
 ### OS
 ![GNU/Linux](https://img.shields.io/badge/gnu_linux-grey?style=for-the-badge&logo=Linux)
+![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)
 ![Windows](https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=Windows)
+<!--
+### Browsers
+![Firefox](https://img.shields.io/badge/firefox-grey?style=for-the-badge&logo=firefox)
+-->
