@@ -1,4 +1,9 @@
 ### Languages
+![ITA](https://img.shields.io/badge/🇮🇹-grey?style=for-the-badge)
+![GBR](https://img.shields.io/badge/🇬🇧-grey?style=for-the-badge)
+![RUS](https://img.shields.io/badge/🇷🇺(Немного)-grey?style=for-the-badge)
+
+### Programming, scripting and markup languages
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php)
