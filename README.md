@@ -1,4 +1,4 @@
-### Languages
+### (Human) Languages
 ![ITA](https://img.shields.io/badge/🇮🇹-grey?style=for-the-badge)
 ![GBR](https://img.shields.io/badge/🇬🇧-grey?style=for-the-badge)
 ![RUS](https://img.shields.io/badge/🇷🇺(Немного)-grey?style=for-the-badge)
@@ -12,15 +12,20 @@
 ![SQL](https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=mysql)
 ![Bash](https://img.shields.io/badge/bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks
+### Frameworks and other stuff
 ![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/vue.js-grey?style=for-the-badge)
+
+### Other
+![Wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)
 
 ### OS
 ![GNU/Linux](https://img.shields.io/badge/gnu_linux-grey?style=for-the-badge&logo=Linux)
 ![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)
 ![Windows](https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=Windows)
+![MacOS](https://img.shields.io/badge/shit_os-grey?style=for-the-badge&logo=apple)
+
 <!--
 ### Browsers
 ![Firefox](https://img.shields.io/badge/firefox-grey?style=for-the-badge&logo=firefox)
