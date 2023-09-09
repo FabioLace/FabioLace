@@ -17,16 +17,14 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/vue.js-grey?style=for-the-badge)
 
-### Other
+### CMS
 ![Wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)
 
 ### OS
 ![GNU/Linux](https://img.shields.io/badge/gnu_linux-grey?style=for-the-badge&logo=Linux)
-![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)
 ![Windows](https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=Windows)
 ![MacOS](https://img.shields.io/badge/shit_os-grey?style=for-the-badge&logo=apple)
 
-<!--
 ### Browsers
 ![Firefox](https://img.shields.io/badge/firefox-grey?style=for-the-badge&logo=firefox)
--->
+![Brave](https://img.shields.io/badge/brave-grey?style=for-the-badge&logo=brave)
