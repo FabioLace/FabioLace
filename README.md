@@ -1,3 +1,7 @@
+# Who am I
+Not a frontender. Not a backender. All I know is what I'm not.
+
+# What I maybe know
 ### (Human) Languages
 ![ITA](https://img.shields.io/badge/🇮🇹-grey?style=for-the-badge)
 ![GBR](https://img.shields.io/badge/🇬🇧-grey?style=for-the-badge)
@@ -20,6 +24,7 @@
 ### CMS
 ![Wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)
 
+# What I use
 ### OS
 ![GNU/Linux](https://img.shields.io/badge/gnu_linux-grey?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=Windows)
