@@ -1,11 +1,7 @@
-# Who am I
-Not a frontender. Not a backender. All I know is what I'm not.
-
 # What I know
 ### (Human) Languages
 ![ITA](https://img.shields.io/badge/🇮🇹_Italiano-grey?style=for-the-badge)
 ![GBR](https://img.shields.io/badge/🇬🇧_English-grey?style=for-the-badge)
-![RUS](https://img.shields.io/badge/🇷🇺_Русский_(Немного)-grey?style=for-the-badge)
 
 ### Programming, scripting and markup languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,11 +20,9 @@ Not a frontender. Not a backender. All I know is what I'm not.
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### CMS
-
 ![Wordpress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)
 
 # What I use
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### OS
@@ -37,11 +31,3 @@ Not a frontender. Not a backender. All I know is what I'm not.
 ![Windows](https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=Windows)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOs-grey?style=for-the-badge&logo=apple)
-
-### Browsers
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-
